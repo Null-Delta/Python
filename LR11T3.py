@@ -7,6 +7,3 @@ for i in range(n):
     votes[inp[0]] += int(inp[1])
 
 print(votes)
-# variant 8
-
-# variant 11
